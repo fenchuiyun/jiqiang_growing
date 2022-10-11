@@ -91,9 +91,7 @@ save "" # 不使用RDB存储 不能主从
 
 **RDB的执行流程（原理）**
 
-![image-20221011170219558](/Users/xjq/Documents/Java体系/asset/image-20221011170219558.png)
-
-
+![image-20221011171540571](redis持久化.assets/image-20221011171540571.png)
 
 #####AOF
 
